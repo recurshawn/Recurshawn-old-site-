@@ -1,0 +1,36 @@
+body{
+    background: #292929;
+    
+}
+h1{
+    font-size: 50px;
+    color: white;
+    margin-top: 30%;
+    font-family: 'Raleway',sans-serif;
+    text-transform: uppercase;
+}
+
+.bod{
+    /*border: solid 10px wheat; */
+    padding: 10px;
+    max-width: 700px;
+    margin: auto 20%;
+    font-size: 25px;
+    color: white;
+    font-family: 'Open Sans',sans-serif;
+}
+
+.typewriter{
+    border-bottom: 2px dashed red;
+}
+.division {
+    border: 0;
+    height: 1px;
+    margin: 30px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
+}
+
+#one{
+    margin-right: 5px;
+    float: left;
+}
