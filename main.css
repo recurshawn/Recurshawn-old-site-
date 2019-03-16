@@ -34,3 +34,30 @@ h1{
     margin-right: 5px;
     float: left;
 }
+
+.icon
+{
+    margin: 10px;
+}
+.twitter-i
+{
+    position: relative;
+    display: inline-block;
+}
+.twitter-i .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+.twitter-i:hover .img-top {
+    display: inline;
+}
+.github-i:hover
+{
+    background: black;
+}
+.linkedin-i:hover{
+    background: #0077B5;
+}
