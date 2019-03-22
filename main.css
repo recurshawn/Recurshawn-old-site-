@@ -11,10 +11,9 @@ h1{
 }
 
 .bod{
-    /*border: solid 10px wheat; */
     padding: 10px;
     max-width: 700px;
-    margin: auto 20%;
+    margin: 10% 20%;
     font-size: 25px;
     color: white;
     font-family: 'Open Sans',sans-serif;
