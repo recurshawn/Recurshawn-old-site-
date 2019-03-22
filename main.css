@@ -1,13 +1,14 @@
 body{
     background: #292929;
-    
 }
+
 h1{
     font-size: 50px;
     color: white;
-    margin-top: 30%;
     font-family: 'Raleway',sans-serif;
     text-transform: uppercase;
+    margin: 0;
+    padding: 0;
 }
 
 .bod{
@@ -19,9 +20,7 @@ h1{
     font-family: 'Open Sans',sans-serif;
 }
 
-.typewriter{
-    border-bottom: 2px dashed red;
-}
+
 .division {
     border: 0;
     height: 1px;
@@ -33,16 +32,17 @@ h1{
     margin-right: 5px;
     float: left;
 }
-
 .icon
 {
     margin: 10px;
+    
 }
 .twitter-i
 {
     position: relative;
     display: inline-block;
 }
+
 .twitter-i .img-top {
     display: none;
     position: absolute;
@@ -65,7 +65,6 @@ h1{
 {
     text-align: center;
 }
-
 .contact-text
 {
     margin-top:60px;
